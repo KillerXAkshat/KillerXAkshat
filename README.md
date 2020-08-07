@@ -1,6 +1,6 @@
 ### Hi there, I'm Akshat 👋
 
-### About Me!!
+### This is the place where I opensource stuff and break things 🤣
 
 -  **Learning :** Data Science :zap: | Open-Source :fire:	
 -  **Languages :** Python 🐍
