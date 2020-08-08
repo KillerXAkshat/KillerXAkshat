@@ -18,7 +18,7 @@
 [<img align="left" alt="akshatgurnani | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 <br />
 
-### Languages and Tools:
+<!--### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -30,6 +30,7 @@
 
 <br />
 <br />
+-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akshatgurnani&layout=compact)
