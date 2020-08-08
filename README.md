@@ -33,9 +33,6 @@
 -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akshatgurnani&layout=compact)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![github stats](https://github-readme-stats.vercel.app/api?username=akshatgurnani&show_icons=true)
 <!--🌟 From [Akshat Gurnani](https://github.com/KillerXAkshat)-->
 
