@@ -15,7 +15,6 @@
 [<img align="left" alt="akshat_gurnani | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="akshatgurnani | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="akshatgurnani | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
-[<img align="left" alt="akshatgurnani | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 <br />
 
 <!--### Languages and Tools:
@@ -40,4 +39,3 @@
 [linkedin]: https://linkedin.com/in/akshatgurnani
 [twitter]: https://twitter.com/akshat_gurnani
 [Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=akshatgurnani1999@gmail.com&su=SUBJECT&body=BODY&tf=1
-[Instagram]: https://www.instagram.com/akshat_gurnani/
