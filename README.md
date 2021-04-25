@@ -33,7 +33,7 @@
 <BR>
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=akshatgurnani&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)]
+![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=akshatgurnani&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)
 
 [linkedin]: https://linkedin.com/in/akshatgurnani
 [twitter]: https://twitter.com/akshat_gurnani
