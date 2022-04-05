@@ -1,40 +1,42 @@
-### Hi there,I'm Akshat 👋..
+## Hello folks,This is [Akshat][linkedin] (◕ ˬ ◕)
 
-### This is the place where I opensource stuff and break things 🤣
+I'm a passionate self-taught full stack applied ML Engineer and a freelance software engineer from India. I like reading about human-centered design and user-centered approaches to build my products by prioritizing its efficiency and user experience. I take great care in the experience, architecture, and code quality of the product which I used to build.
 
--  **Learning :** Data Science :zap: | Open-Source :fire:	
--  **Languages :** Python 🐍
--  **Hobbies :** Articles, Music & Movies :headphones:
--  **Fact :** Die with memories not dreams :heart: 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love to explore how collaboration and knowledge sharing happen through open-source.
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> **About Me**:
+
+<img align="right" alt="GIF" src="https://github.com/akshatgurnani/akshatgurnani/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 🏦 I'm a **Research Assistant** working at Indian Institute of Science (IISc), Bengaluru
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📈 Additionally am doing Software Enginner(ML-AI) Intern in a Product based Startup
+- 💻 Currently Exploring Advanced Computer Vision and Attention based Transformer Models 
+- 📖 I am currently reading **Sapiens** by Yuval Noah Harari
+- ⚡Deeplearning.ai event ambassador
+- 👯 I’m looking to collaborate on Kaggle Competitions
+- 💬 Ask me about anything, I am happy to help 😄
+- 💼 any freelance work? do reach, [email](mailto:akshatgurnani@outlook.com) 
+- ❤️ Fact: Die with memories not dreams :)
+
+---
+
+### <img src='https://media1.giphy.com/media/ukwPlCmJ5RmlqvQCpA/giphy.gif?cid=ecf05e47o32jq2k5aels22p82t7p3lqswb9yxkz286mekjaa&rid=giphy.gif&ct=g' width='25px'> **My Github Stats**:
+![Akshat's Github Stats](https://github-readme-stats.vercel.app/api?username=akshatgurnani&theme=tokyonight&show_icons=true)
+![Akshat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshatgurnani&theme=tokyonight&show_icons=true)
+
+---
 
 ### Connect with me:
+[<img align="left" alt="akshat_gurnani | Twitter" width="40px" src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px />][twitter]
+[<img align="left" alt="akshatgurnani | LinkedIn" width="40px" src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px/>][linkedin]
+[<img align="left" alt="akshatgurnani | Polywork" width="40px" src="https://i.imgur.com/EEo2g39.png" width=40px height=40px />][Polywork] <br>
 
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
-[<img align="left" alt="akshat_gurnani | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="akshatgurnani | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="akshatgurnani | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
-<br />
+<br>
 
-<!--### Languages and Tools:
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=akshatgurnani&left_text=Hello%20Visitors)
+ 
+</br>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
--->
-<BR>
-  
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Akshat's github stats](https://github-readme-stats.vercel.app/api?username=akshatgurnani&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)
-
-[linkedin]: https://linkedin.com/in/akshatgurnani
-[twitter]: https://twitter.com/akshat_gurnani
-[Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=akshatgurnani1999@gmail.com&su=SUBJECT&body=BODY&tf=1
+[linkedin]: https://www.linkedin.com/in/akshatgurnani
+[twitter]: https://www.twitter.com/akshatgurnani
+[Polywork]: https://www.polywork.com/akshatgurnani
