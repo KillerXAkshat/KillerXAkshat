@@ -22,7 +22,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### <img src='https://media1.giphy.com/media/ukwPlCmJ5RmlqvQCpA/giphy.gif?cid=ecf05e47o32jq2k5aels22p82t7p3lqswb9yxkz286mekjaa&rid=giphy.gif&ct=g' width='25px'> **My Github Stats**:
 ![Akshat's Github Stats](https://github-readme-stats.vercel.app/api?username=akshatgurnani&theme=tokyonight&show_icons=true)
-![Akshat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshatgurnani&theme=tokyonight&show_icons=true)
+
 
 ---
 
